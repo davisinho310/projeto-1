@@ -1,0 +1,16 @@
+.cabeça{
+    background-color: rgb(14, 4, 153);
+    color: rgb(255, 0, 0);
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 20%;
+
+}
+
+.item{
+    display: inline-block;
+    margin: 0 16px;
+}
